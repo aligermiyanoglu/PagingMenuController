@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "PagingMenuController"
+  s.name             = "aPagingMenuController"
   s.version          = "2.2.2"
   s.summary          = "A paging view with customizable menu"
   s.homepage         = "https://github.com/aligermiyanoglu/PagingMenuController"
